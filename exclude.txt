@@ -1,0 +1,6 @@
+.git
+.idea
+README.md
+make-project.sh
+make-project.bat
+exclude.txt
